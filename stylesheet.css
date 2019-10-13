@@ -114,3 +114,43 @@ html {
   margin-bottom: 0;
   margin-top:3px;
 }
+
+#celebrate {
+  height: 100px;
+  width: 585px;
+  text-align: center;
+}
+
+#celebrate p {
+  color: #174DA1;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 5px;
+  margin-top:0;
+  font-family: sans-serif;
+  font-size: 17px
+}
+
+#riviera-picture {
+  height: 258px;
+  width: 585px;
+  margin-top: 40px;
+  background-color: pink;
+}
+
+#riviera-picture img {
+  width: 585px;
+}
+
+#under-riviera {
+  height: 150px;
+  width: 585px;
+  background-color: green;
+  text-align: center;
+}
+
+#under-riviera #learn-button-wrapper {
+  height: 50px;
+  width: 100px;
+  background-color: yellow;
+}
