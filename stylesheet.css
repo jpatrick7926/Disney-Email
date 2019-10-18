@@ -128,7 +128,7 @@ html {
   margin-bottom: 5px;
   margin-top:0;
   font-family: sans-serif;
-  font-size: 17px
+  font-size: 18px
 }
 
 #riviera-picture {
@@ -143,14 +143,74 @@ html {
 }
 
 #under-riviera {
-  height: 150px;
+  height: 140px;
   width: 585px;
-  background-color: green;
   text-align: center;
 }
 
 #under-riviera #learn-button-wrapper {
+  height: 75px;
+  width: 302.5px;
+  float: left;
+}
+
+#under-riviera #learn-button-wrapper button {
+  width: 270px;
+  height: 45px;
+  border-radius: 25px;
+  margin-left: 30px;
+  margin-top: 20px;
+  color: white;
+  background-color: #174DA1;
+  border: solid #174DA1;;
+  font-size: 16px;
+}
+
+#walt-disney-world-wrapper {
+  height: 75px;
+  width: 282.5px;
+  float: right;
+}
+
+#walt-disney-world-wrapper #walt-disney {
   height: 50px;
-  width: 100px;
-  background-color: yellow;
+  width: 140px;
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-right: 0px;
+  float: left;
+}
+
+#walt-disney-world-wrapper #walt-disney p {
+  margin: 0;
+  font-family: waltograph;
+  color: #53C5F7;
+  font-size: 36px;
+}
+
+#walt-disney-world-wrapper #world-wrapper {
+  height: 30px;
+  width: 75px;
+  margin-top: 20px;
+  float: left;
+}
+
+#walt-disney-world-wrapper #world-wrapper p {
+  color: #53C5F7;
+  font-size: 26px;
+  margin: 0;
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+#under-riviera #phone-wrapper {
+  height: 50px;
+  clear: both;
+  padding: 10px;
+}
+
+#under-riviera #phone-wrapper p {
+  color: #174DA1;
+  font-family: sans-serif;
+  margin: 0;
 }
