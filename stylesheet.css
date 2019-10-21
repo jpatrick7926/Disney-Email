@@ -6,6 +6,7 @@ body {
 html {
   height: 1000px;
   width: 600px;
+  margin:auto;
 }
 
 #container {
@@ -143,7 +144,7 @@ html {
 }
 
 #under-riviera {
-  height: 140px;
+  height: 120px;
   width: 585px;
   text-align: center;
 }
@@ -213,4 +214,37 @@ html {
   color: #174DA1;
   font-family: sans-serif;
   margin: 0;
+}
+
+#above-benefits {
+  height: 375px;
+  width: 100%;
+  text-align: center;
+}
+
+#above-benefits img {
+  width: 100%;
+  height: 100%;
+}
+
+#darth-vader {
+  height: 190px;
+  width: 100%;
+}
+
+#darth-vader img {
+  height: 100%;
+  width: 100%;
+}
+
+#info {
+  height: 55.8%;
+  width: 100%;
+  padding: 20px;
+}
+
+#info p {
+  margin: 0;
+  font-size: 10.8px;
+  font-family: arial;
 }
